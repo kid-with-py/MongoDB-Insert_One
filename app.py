@@ -14,7 +14,7 @@ mydatabase=client['Students']
 
 info=mydatabase.studentsinfo
 
-### Creating Collection ###
+### Creating data for Collection ###
 
 records={
     'firstname':'Jhon',
